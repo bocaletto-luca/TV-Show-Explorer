@@ -3,6 +3,11 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat)](https://getbootstrap.com/) [![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)](LICENSE)
 
+#### index.html
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/TV-Show-Explorer/index.html)
+#### index2.html
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/TV-Show-Explorer/index2.html)
+
 ## Overview
 
 **TV Show Explorer – Complete Edition** is a professional, full-featured web application that empowers users to explore TV shows through multiple discovery modes. This free application uses the TV Maze API to retrieve comprehensive data about TV shows—including cover images, summaries, cast details, and episodes—and provides advanced filtering features such as search by name, search by letter, filtering by genre, and a Top 100 Rated section complete with a top 10 horizontal bar chart. All interfaces are fully paginated, ensuring that large data sets are neatly organized and explored.
